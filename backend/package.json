@@ -1,0 +1,11 @@
+{
+  "name": "tempest-site-backend",
+  "version": "1.0.0",
+  "description": "Backend for the tempest website",
+  "main": "index.js",
+  "scripts": {
+    "testicles": "nodemon server.js"
+  },
+  "author": "KaboomB52",
+  "license": "ISC"
+}
